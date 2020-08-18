@@ -34,7 +34,7 @@ In this Jupyter notebook, you will come across some the most common steps toward
 * Modelling using a few different base models 
 * Hyperparameter tuning to improve the model's performance  
 
-This model achieves an <b>accuracy score</b> of *80%* evaluated by kaggle website. 
+This model achieves an <b>accuracy score</b> of *80%* (top 11% at the time of submission) evaluated by kaggle website. 
 
 
 Please feel free to leave comments and suggest ways in which I could improve my solution :)   
